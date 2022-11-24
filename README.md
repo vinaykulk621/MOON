@@ -2,8 +2,5 @@
 
 ## 3D MOON with a bunch of stars
 
-```js
-git clone < this repo >
-npm install
-npm run start
-```
+### Firebase is not showing moon
+[https://moon-af195.web.app/](MOON)
